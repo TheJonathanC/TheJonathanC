@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think im creative**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
