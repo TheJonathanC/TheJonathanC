@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jonathancorrea239@gmail.com**
 
-- 📄 Know about my experiences [https://jonathanc.in/resume](https://jonathanc.in/resume)
+- 📄 Know about my experiences [jonathanc.in/resume](https://jonathanc.in/resume)
 
 - ⚡ Fun fact **I think im creative**
 
