@@ -5,29 +5,26 @@
 
 - 🌱 I’m currently learning **Rust, and the endless quest to master AI**
 
-- 👨‍💻 All of my projects are available at [jonathanc.in](jonathanc.in)
+- 👨‍💻 All of my projects are available at [https://jonathanc.in](https://jonathanc.in)
 
-- 📝 I regularly write articles on [jonathanc.in/blogs](jonathanc.in/blogs)
+- 📝 I regularly write articles on [https://jonathanc.in/blogs](https://jonathanc.in/blogs)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **jonathancorrea239@gmail.com**
 
-- ⚡ Fun fact **I think im creative**
+- 📄 Know about my experiences [https://jonathanc.in/resume](https://jonathanc.in/resume)
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I think im creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jona10_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jona10_py" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jonathan--correa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan--correa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/therealjonathanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="therealjonathanc" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16267664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16267664" height="30" width="40" /></a>
 <a href="https://instagram.com/jona10.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jona10.exe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jona10exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jona10exe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@jona10exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jona10exe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nnyb0pjn3y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nnyb0pjn3y" height="30" width="40" /></a>
-<a href="/https://jonathanc.in/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jonathanc.in/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
