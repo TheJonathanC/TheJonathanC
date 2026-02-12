@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Rust, and the endless quest to master AI**
 
-- 👨‍💻 All of my projects are available at [https://jonathanc.in](https://jonathanc.in)
+- 👨‍💻 All of my projects are available at [jonathanc.in](https://jonathanc.in)
 
-- 📝 I regularly write articles on [https://jonathanc.in/blogs](https://jonathanc.in/blogs)
+- 📝 I regularly write articles on [jonathanc.in/blogs](https://jonathanc.in/blogs)
 
 - 💬 Ask me about **Python**
 
