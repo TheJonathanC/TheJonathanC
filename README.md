@@ -7,15 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [jonathanc.in](https://jonathanc.in)
 
-- 📝 I regularly write articles on [jonathanc.in/blogs](https://jonathanc.in/blogs)
-
-- 💬 Ask me about **Python or Web/App development**
-
 - 📫 How to reach me **jonathancorrea239@gmail.com**
 
 - 📄 Know about my experiences [jonathanc.in/resume](https://jonathanc.in/resume)
-
-- ⚡ Fun fact **I think im creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
